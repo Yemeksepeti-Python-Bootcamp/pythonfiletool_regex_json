@@ -1,4 +1,11 @@
+# Created by Onur AKYOL
+# Instructor İbrahim EDİZ
+# Last HW for Yemeksepeti
+
 # pythonfiletool_regex_json
+
+Windows: python main.py --file dataregex.json --db dataregex.db
+Linux/MacOs: python3 main.py --file dataregex.json --db dataregex.db
 
 Bu repository patika.dev 153. Yemeksepeti Python Web Development Bootcamp için ödev detaylarını paylaşmak üzere tema olarak hazırlanmıştır. 
 
@@ -27,4 +34,3 @@ Kriterler
 3. Kod çalıştırıldığında aynı formatta ki farklı veriler veritabanına yeni bir tablo olarak kaydediliyor mu?
 4. Program OOP paradigmasına uygun yazılmış mı?
 5. main.py dosyası parametrelerle sağlıklı çalışıyor mu? parametre girilmediğinde bilgi vererek kullanıcıyı yönlendiriyor mu?
-  
