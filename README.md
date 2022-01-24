@@ -1,6 +1,6 @@
-# Created by Onur AKYOL
-# Instructor İbrahim EDİZ
-# Last HW for Yemeksepeti
+**Created by Onur AKYOL**
+**Instructor İbrahim EDİZ**
+**Last HW for Yemeksepeti**
 
 # pythonfiletool_regex_json
 
